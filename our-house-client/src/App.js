@@ -1,5 +1,6 @@
 import Header from './Components/Header';
 import Footer from './Components/Footer';
+import JoinRoom from './Components/JoinRoom';
 
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
     <div>
       <Header />
       <Footer />
+      < JoinRoom />
     </div>
   );
 }
